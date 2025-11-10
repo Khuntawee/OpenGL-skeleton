@@ -1,0 +1,14 @@
+# Target labels
+ glad-populate
+# Source files and their labels
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/CMakeFiles/glad-populate
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/CMakeFiles/glad-populate.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/CMakeFiles/glad-populate-complete.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-build.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-configure.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-download.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-install.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-mkdir.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-patch.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-test.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/glad-populate-update.rule

@@ -1,0 +1,14 @@
+# Target labels
+ stb-populate
+# Source files and their labels
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/CMakeFiles/stb-populate
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/CMakeFiles/stb-populate.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/CMakeFiles/stb-populate-complete.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-build.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-download.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-install.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-test.rule
+/Users/nanfakhuntawee/CEDT/Hw4/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-update.rule
